@@ -1,0 +1,28 @@
+.u-section-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/Sana.jpg"); background-position: 50% 50%}
+.u-section-1 .u-sheet-1 {min-height: 800px}
+.u-section-1 .u-form-1 {height: 317px; margin: 165px 510px 0 60px}
+.u-section-1 .u-btn-1 {background-image: none; border-style: solid}
+.u-section-1 .u-image-1 {width: 45px; height: 45px; margin: 116px 327px 0 auto}
+.u-section-1 .u-text-1 {margin: -36px 167px 0 auto}
+.u-section-1 .u-image-2 {width: 45px; height: 33px; margin: 26px 323px 0 auto}
+.u-section-1 .u-text-2 {margin: -28px 45px 60px 842px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 660px}
+.u-section-1 .u-form-1 {margin-right: 370px; margin-left: 0; width: 570px}
+.u-section-1 .u-text-1 {margin-right: 0}
+.u-section-1 .u-text-2 {margin-right: 0; margin-left: 687px} }
+
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 506px}
+.u-section-1 .u-form-1 {margin-right: 150px}
+.u-section-1 .u-text-2 {margin-left: 467px} }
+
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 380px}
+.u-section-1 .u-form-1 {margin-right: 0; width: 540px}
+.u-section-1 .u-text-2 {margin-left: 287px} }
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 115px}
+.u-section-1 .u-form-1 {width: 340px; margin-top: 337px}
+.u-section-1 .u-image-1 {margin-top: -487px; margin-right: 295px}
+.u-section-1 .u-text-1 {margin-top: -274px}
+.u-section-1 .u-image-2 {margin-top: 723px; margin-right: 295px}
+.u-section-1 .u-text-2 {margin-top: -724px; margin-left: 87px} }
